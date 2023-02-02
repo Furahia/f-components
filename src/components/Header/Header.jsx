@@ -5,7 +5,7 @@ function Header() {
   return (
     <div>
       <nav className="nav-container">
-        <ul className="rotess">
+        <ul className="header">
           <li>Welcome</li>
           <li>Log in</li>
         </ul>
